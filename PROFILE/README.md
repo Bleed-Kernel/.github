@@ -16,7 +16,7 @@ Support me on BuyMeACoffee with a One Time Donation or **become a member!** and 
 
 ## Join us on Discord
 
-You can also join us on discord
+You can also join us on discord for support, help with contributing or even just to talk about the kernel with other likeminded people
 
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/e3DTpxuRnT)
 
