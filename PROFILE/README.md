@@ -11,11 +11,13 @@ The Bleed Kernel while being a passion project is something that could have real
 
 ## Support the Bleed Kernel 
 Support me on BuyMeACoffee with a One Time Donation or **become a member!** and **support the development of open source platforms!**
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mellurboo)
 
 ## Join us on Discord
 
 You can also join us on discord
+
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/e3DTpxuRnT)
 
 </div>
