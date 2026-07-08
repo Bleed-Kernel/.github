@@ -2,7 +2,7 @@
 ![Logo](https://github.com/Bleed-Kernel/Bleed-Resources/blob/main/Bleed-Booting.png?raw=true)
 <div align="center">
 
-# The Bleed Kernel
+# The Bleed Kernel - An x86_64 Hobby Operating System
 A Hobby Operating system designed to run on all x86_64 hardware with custom programs such as the verdict shell all designed to run on bare metal all while keeping portability in mind.
 
 I want to provide an alternative platform that doesn't waste time supporting old esoteric hardware such as 32-bit x86 machines. This way the kernel can focus on moving forward without looking back into the past
